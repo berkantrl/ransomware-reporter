@@ -1,0 +1,7 @@
+requests
+googletrans==4.0.0-rc1
+pycountry-convert
+python-docx
+matplotlib
+seaborn
+python-dateutil
